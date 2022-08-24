@@ -14,7 +14,9 @@ Next, create a new branch. This allows you to create multiple pull requests with
 
 Next, commit your changes. A lot of people are expected to use the built-in code editor inside the GitHub web interface.
 
-Optionally, preview your changes. If you like you can use the deployment of the fork by going to **Settings** then **Pages** and deploying your fork temporarily. After your commits have deployed, use the preview link to view your changes (used in syntax https://YOURUSERNAME.github.io/YOURREPONAME (YOURUSERNAME is the GitHub username for your account, YOURREPONAME can be **terribly-broken-website** or **repo name in the fork** (they can be different)).
+Optionally, preview your changes. If you like you can use the deployment of GitHub Pages by going to **Settings** then **Pages** and deploying your fork temporarily. After your commits have deployed, use the preview link to view your changes (used in syntax https://YOURUSERNAME.github.io/YOURREPONAME (YOURUSERNAME is the GitHub username for your account, YOURREPONAME can be **terribly-broken-website** or **repo name of the fork** (they can be different)).
+
+You can also download the index.html file to your computer by clicking [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/softorangetech200/terribly-broken-website/blob/main/index.html). To run it locally follow the guide [here](/docs/running-locally.md).
 
 Then create your pull request by clicking [here](https://github.com/softorangetech200/terribly-broken-website/compare) and following the steps shown.
 
