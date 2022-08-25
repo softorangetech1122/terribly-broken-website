@@ -1,5 +1,5 @@
-# Contributing to this project
-😊Thanks for looking to Contribute on this project! Here are some guidelines that you need to know.
+# Contributing to Terribly Broken Website
+😊Thanks for looking to Contribute on Terribly Broken Website! Here are some guidelines that you need to know.
 
 ## Types of Contributions (for beginners)
 Contributions can be ideas and pull requests.
