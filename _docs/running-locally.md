@@ -8,3 +8,6 @@ This docs are only for VS Code, you can download the [index file](https://minhas
 3. Open index.html.
 4. Click on `Go Live` in the toolbar below.
 5. Tested.
+
+## Notes:
+Analytics can still apply. To disable this, remove the scripts covered by Google Tag/Analytics.
