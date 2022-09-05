@@ -10,4 +10,4 @@ This docs are only for VS Code, you can download the [index file](https://minhas
 5. Tested.
 
 ## Notes:
-Analytics can still apply. To disable this, remove the scripts covered by Google Tag/Analytics.
+Analytics can still apply. To disable this, remove the scripts covered by Google Tag/Analytics in index.html.
